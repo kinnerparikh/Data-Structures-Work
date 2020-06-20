@@ -47,3 +47,5 @@ Ok so heres the dealio. I put this here so that I can view my  work in the futur
    * [Unit 3-9b: Queue: Resizing Array Iterator](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_3_Labs_Stacks_Queues/Iterators/ResizingArrayQueue.java)
 
 * [Unit 3-9a: Stack and Queue Iterators (Linked List)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### [Unit 4 Labs - Hashes, Maps & Sets](../Unit_4_Labs_Hashes_Maps_Sets)
