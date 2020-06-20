@@ -1,12 +1,14 @@
-package Queue;
+package Unit_3_Labs_Stacks_Queues;
 
-import java.util.*;
 public class FixedSizeArrayQueue<T> {
     private T[] queue;
     private int num;
     private int first;
     private int last;
     
+    // DELETE THIS WHEN YOU COPY
+    @SuppressWarnings("unchecked") // <-- !!!!
+    // ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     public FixedSizeArrayQueue(int maxSize) {
         queue = (T[])new Object[maxSize];
         num = 0;
