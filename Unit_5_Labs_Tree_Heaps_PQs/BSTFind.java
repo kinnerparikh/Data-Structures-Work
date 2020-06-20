@@ -1,6 +1,6 @@
 package Unit_5_Labs_Tree_Heaps_PQs;
 
-public class BinarySearchTree<TKey extends Comparable<TKey>, TValue> {
+public class BSTFind<TKey extends Comparable<TKey>, TValue> {
     class Node {
         TKey key;
         TValue value;

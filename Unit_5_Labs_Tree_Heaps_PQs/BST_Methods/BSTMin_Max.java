@@ -1,6 +1,6 @@
 package Unit_5_Labs_Tree_Heaps_PQs.BST_Methods;
 
-public class Min_Max<TKey extends Comparable<TKey>, TValue> {
+public class BSTMin_Max<TKey extends Comparable<TKey>, TValue> {
     class Node {
         TKey key;
         TValue value;

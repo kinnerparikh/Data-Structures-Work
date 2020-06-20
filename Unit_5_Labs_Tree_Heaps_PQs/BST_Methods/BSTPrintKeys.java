@@ -1,6 +1,6 @@
 package Unit_5_Labs_Tree_Heaps_PQs.BST_Methods;
 
-public class Height<TKey extends Comparable<TKey>, TValue> {
+public class BSTPrintKeys<TKey extends Comparable<TKey>, TValue> {
     class Node {
         TKey key;
         TValue value;
@@ -10,15 +10,17 @@ public class Height<TKey extends Comparable<TKey>, TValue> {
 
     Node root;
 
-    public int height() {
-        return root == null ? 0 : height(root);
+    public void printKeys(){
+        printKeys(root);
     }
 
-    private int height(Node current) {
-        if (current == null) return -1;
-        int leftHeight = height(current.left);
-        int rightHeight = height(current.right);
-        return Math.max(leftHeight, rightHeight) + 1;
+    private void printKeys(Node node) {
+        if (node != null)
+        {
+            printKeys(node.left);
+            System.out.println(node.key);
+            printKeys(node.right);
+        }
     }
 
     // This is used by our test code. Do not change.

@@ -1,6 +1,6 @@
-package Unit_5_Labs_Tree_Heaps_PQs.BST_Methods;
+package Unit_5_Labs_Tree_Heaps_PQs;
 
-public class Insert<TKey extends Comparable<TKey>, TValue> {
+public class BSTInsert<TKey extends Comparable<TKey>, TValue> {
     class Node {
         TKey key;
         TValue value;

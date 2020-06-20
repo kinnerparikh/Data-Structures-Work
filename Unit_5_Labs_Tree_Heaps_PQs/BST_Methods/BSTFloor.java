@@ -1,6 +1,6 @@
 package Unit_5_Labs_Tree_Heaps_PQs.BST_Methods;
 
-public class Floor<TKey extends Comparable<TKey>, TValue> {
+public class BSTFloor<TKey extends Comparable<TKey>, TValue> {
     class Node {
         TKey key;
         TValue value;
