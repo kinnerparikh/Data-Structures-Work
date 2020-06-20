@@ -58,27 +58,27 @@ Ok so heres the dealio. I put this here so that I can view my  work in the futur
 
 ### [Unit 5 Labs - Trees, Heaps & Priority Queues](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_5_Labs_Tree_Heaps_PQs)
 
-* [Unit 5-1: Implement find for a BST](
+* [Unit 5-1: Implement find for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BSTFind.java)
 
-* [Unit 5-2: Implement insert for a BST](
+* [Unit 5-2: Implement insert for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BSTInsert.java)
 
-* [Unit 5-3: Implement height for a BST](
+* [Unit 5-3: Implement height for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BSTHeight.java)
 
-* [Unit 5-4: Implement more BST methods:](
+* [Unit 5-4: Implement more BST methods:](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods)
 
-  * [5-4a: Implement printKeys for a BST](
+  * [5-4a: Implement printKeys for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTPrintKeys.java)
   
-  * [5-4b: Implement size and rank for a BST](
+  * [5-4b: Implement size and rank for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTSize_Rank.java)
   
-  * [5-4c: Implement min and max for a BST](
+  * [5-4c: Implement min and max for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTMin_Max.java)
   
-  * [5-4d: Implement floor for a BST](
+  * [5-4d: Implement floor for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTFloor.java)
 
-* [5-5: Implement deleteMin and delete for a BST](
+* [5-5: Implement deleteMin and delete for a BST](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BSTDelete_DeleteMin.java)
 
-* [5-6: Binary Heap Priority Queue](
+* [5-6: Binary Heap Priority Queue](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/BinaryHeapMaxPQ.java)
 
-* [5-7: Implement Heapsort](
+* [5-7: Implement Heapsort](https://github.com/kinnerparikh/Data-Structures-Work/blob/master/Unit_5_Labs_Tree_Heaps_PQs/Heapsort.java)
 
 ### [Unit 6 Labs - Graphs](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_6_Graphs)
 
