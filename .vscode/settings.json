@@ -2,6 +2,7 @@
     "java.dependency.packagePresentation": "hierarchical",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "algs4.jar"
+        "algs4.jar",
+        "junit-4.13.jar"
     ]
 }
