@@ -1,4 +1,4 @@
-package LinkedList;
+package Unit_1_Labs_LinkedList;
 
 /*
 Problem 0 – Find Minnie
