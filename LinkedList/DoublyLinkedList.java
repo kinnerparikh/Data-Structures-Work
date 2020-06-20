@@ -1,5 +1,51 @@
 package LinkedList;
-import java.util.*;
+
+/*
+Implement the class DoublyLinkedList.
+
+You will implement a fully functioning and working Doubly Linked List class that meets the criteria of a specific API. 
+Your DoublyLinkedList class will link Node objects, whose data will be of a generic type. 
+This data structure must be implemented without the use of arrays, ArrayLists, or any additional libraries. 
+In other words, you're building this class from scratch.
+
+You may (and should), however, reference your SinglyLinkedList class to remind you of how to implement some of the basic methods.
+
+The Node class
+    Field summary
+        • data: T: Each Node object will store data of generic type.
+        • next: Node: Each Node stores a reference to the Node that follows this node. If there is no such node, next should be null.
+        • previous: Node: Each Node stores a reference to the Node that precedes this node. If there is no such node, previous should be null.
+    
+    Constructor summary
+        • Node(): This parameter-less constructor should assign data, next, and previous to null.
+        • Node(T value): This single-parameter constructor should assign data to value and next and previous to null.
+
+The DoublyLinkedList class
+
+    Field summary
+        • head: Node: A reference to the Node that is the beginning of this DoublyLinkedList.
+
+    Constructor summary
+        • DoublyLinkedList(): This parameter-less constructor should assign head to null.
+        • DoublyLinkedList(T value): This single-parameter constructor should assign head to a Node whose data is assigned to value.
+    
+    Method summary
+        • isEmpty(): boolean: Returns true if this linked list is empty, i.e. there are no nodes in the list.
+        • size(): int: Returns the number of nodes in this linked list.
+        • toString(): String: Returns a String representation of this linked list. The output of the String should be in the format:
+                      null <-- node1.data <--> node2.data <--> node3.data <--> ... --> null
+                      Each node's data should bepreceded by a two-dash arrow pointing to its previous node, and then the node is followed by a space, two dashes, a greater than symbol, and a space. 
+                      The last node should only point to null. The start and end of the returned String should includereferences to null. In the case of an empty list,just return the String literal, "null".
+    
+        • get(int index): int: Returns the value stored in the specified place in this linked list. If index is invalid, this method should thrown an IndexOutOfBoundsException. Read about how to throw an exception here. <https://www.webucator.com/how-to/how-throw-an-exception-java.cfm>
+        • contains(int value): boolean: Returns true if there is a Node in the linked list whose data is equal to value and returns false otherwise. Make sure to use value comparison in your equality check, not reference comparison!
+        • add(T value): void: Creates a new Node whose data is value, and appends this new Node to the end of this linked list.
+        • add(int index, T value): void: Inserts a new Node whose data is value at the specified position in this list. Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices). If index is invalid, this method should throw an IndexOutOfBoundsException.
+        • remove(): T: Retrieves and removes the head (first element) of this linked list. The Node that came after head should become the new head. If this list is empty when remove is called, throw a NoSuchElementException.
+        • remove(int index): T: Removes the data of the Node at the specified position in this list. Shifts any subsequent elements to the left (subtracts one from their indices). Returns the data of the Node that was removed from the list. If index is invalid, this method should throw an IndexOutOfBoundsException.
+*/
+
+import java.util.NoSuchElementException;
 
 public class DoublyLinkedList<T> {
     static class Node<T> {
@@ -64,7 +110,7 @@ public class DoublyLinkedList<T> {
      */
     public String toString() {
         String retVal = "null";
-        Node temp = head;
+        Node<T> temp = head;
         if (temp == null) {
             return retVal;
         }
@@ -103,7 +149,7 @@ public class DoublyLinkedList<T> {
      * Make sure to use value comparison in your equality check, not reference comparison!
      */
     public boolean contains(T value) {
-        Node temp = head;
+        Node<T> temp = head;
         while (temp != null) {
             if (temp.data.equals(value)) {
                 return true;
@@ -123,8 +169,8 @@ public class DoublyLinkedList<T> {
             head = new Node<T>(value);
         }
         else {
-            Node temp = head;
-            Node prev = null;
+            Node<T> temp = head;
+            Node<T> prev = null;
             while (temp.next != null) {
                 prev = temp;
                 temp = temp.next;
@@ -142,7 +188,6 @@ public class DoublyLinkedList<T> {
      * If index is invalid, this method should throw an IndexOutOfBoundsException.
      */
     public void add(int index, T value) {
-        Node<T> newNode = new Node<T>(value);
         //check if out of bounds
         if (index < 0 || index > size()) {
             throw new IndexOutOfBoundsException();
@@ -157,7 +202,7 @@ public class DoublyLinkedList<T> {
             for (int i = 0; i < (index - 1); i++) {
                 temp = temp.next;
             }
-            temp = new Node(value, temp, temp.next);
+            temp = new Node<T>(value, temp, temp.next);
             temp.previous.next = temp;
             temp.next.previous = temp;
         }
