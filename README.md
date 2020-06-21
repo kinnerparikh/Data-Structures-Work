@@ -72,37 +72,36 @@ Also I am really bored, it is the first day of summer break and I have nothing t
 
 * [Unit 5-4: Implement more BST methods:](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods)
 
-  * [5-4a: Implement printKeys for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTPrintKeys.java)
+  * [Unit 5-4a: Implement printKeys for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTPrintKeys.java)
   
-  * [5-4b: Implement size and rank for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTSize_Rank.java)
+  * [Unit 5-4b: Implement size and rank for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTSize_Rank.java)
   
-  * [5-4c: Implement min and max for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTMin_Max.java)
-  
-  * [5-4d: Implement floor for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTFloor.java)
+  * [Unit 5-4c: Implement min and max for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTMin_Max.java)
+  * [Unit 5-4d: Implement floor for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTFloor.java)
 
-* [5-5: Implement deleteMin and delete for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BSTDelete_DeleteMin.java)
+* [Unit 5-5: Implement deleteMin and delete for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BSTDelete_DeleteMin.java)
 
-* [5-6: Binary Heap Priority Queue](../master/Unit_5_Labs_Tree_Heaps_PQs/BinaryHeapMaxPQ.java)
+* [Unit 5-6: Binary Heap Priority Queue](../master/Unit_5_Labs_Tree_Heaps_PQs/BinaryHeapMaxPQ.java)
 
-* [5-7: Implement Heapsort](../master/Unit_5_Labs_Tree_Heaps_PQs/Heapsort.java)
+* [Unit 5-7: Implement Heapsort](../master/Unit_5_Labs_Tree_Heaps_PQs/Heapsort.java)
 
 ### [Unit 6 Labs - Graphs](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_6_Graphs)
 
-* [6-1: Adjacency Matrix Graph](../master/Unit_6_Graphs/AdjacencyMatrixGraph.java)
+* [Unit6-1: Adjacency Matrix Graph](../master/Unit_6_Graphs/AdjacencyMatrixGraph.java)
 
-* [Lab 6.2: Adjacency List Graph](../master/Unit_6_Graphs/AdjacencyListGraph.java)
+* [Unit6-2: Adjacency List Graph](../master/Unit_6_Graphs/AdjacencyListGraph.java)
 
-* [Lab 6.3: DFS Path Finder](../master/Unit_6_Graphs/DFSPathFinder.java)
+* [Unit6-3: DFS Path Finder](../master/Unit_6_Graphs/DFSPathFinder.java)
 
-* [Lab 6.4: BFS Web Crawler](../master/Unit_6_Graphs/BFSWebCrawler.java)
+* [Unit6-4: BFS Web Crawler](../master/Unit_6_Graphs/BFSWebCrawler.java)
 
-* [Lab 6.5: Topological Order](../master/Unit_6_Graphs/TopologicalOrder.java)
+* [Unit6-5: Topological Order](../master/Unit_6_Graphs/TopologicalOrder.java)
 
-* [Lab 6.6: Cycle Detector](../master/Unit_6_Graphs/CycleDetector.java)
+* [Unit6-6: Cycle Detector](../master/Unit_6_Graphs/CycleDetector.java)
 
-* [Lab 6.7: Connected Components](../master/Unit_6_Graphs/ConnectedComponents.java)
+* [Unit6-7: Connected Components](../master/Unit_6_Graphs/ConnectedComponents.java)
 
-* [Lab 6.8: Dijkstra Shortest Paths](../master/Unit_6_Graphs/DijkstraShortestPaths.java)
+* [Unit6-8: Dijkstra Shortest Paths](../master/Unit_6_Graphs/DijkstraShortestPaths.java)
 
 ### [Projects](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects)
 
