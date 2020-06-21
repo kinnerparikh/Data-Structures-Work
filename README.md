@@ -1,7 +1,13 @@
-# Data-Structures-Work Kankelborg 2019-2020
+# Data Structures Kankelborg 2019-2020
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-Ok so heres the dealio. I put this here so that I can view my  work in the future without anyone stopping me. Some in previous years have told me that it is next to impossible to recover the labs that we do this year, so if you, yes you looking at MY repo thinking "hmm, its 7:15, I haven't even started the lab because of how boring it is but I'd really like to get the points for it," well then knock yourself out. I really don't care. You know what, this repo is for you. I get it. I really hated this class 90 percent of the time. It's just so excruciatingly, mind-numbingly boring. 
+To Ms. Kankelborg: Thank you! Data Strucutres was, by far, my fourth favorite class. In my ratings, I take into account a multitude of factors, but most important are my interest in the lectures and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, dont just read off the ppt during lectures. add some ivy spice please)
+
+___________________________________________________________________________
+
+Ok so heres the dealio. I put this here so that I can view my  work in the future without anyone stopping me. Some in previous years have told me that it is next to impossible to recover the labs that we do this year, so if you, yes you looking at MY repo thinking "hmm, its 7:15, I haven't even started the lab because of how boring it is but I'd really like to get the points for it," well then please be my guest. You do not even know how many times I would have killed for something like this. 
+Also I am really bored, it is the first day of summer break and I have nothing to do.
+
 
 ## Table of Contents
 ### [Unit 1 Labs - Linked List](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_1_Labs_LinkedList)
