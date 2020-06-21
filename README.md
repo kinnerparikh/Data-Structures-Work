@@ -87,21 +87,21 @@ Also I am really bored, it is the first day of summer break and I have nothing t
 
 ### [Unit 6 Labs - Graphs](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_6_Graphs)
 
-* [Unit6-1: Adjacency Matrix Graph](../master/Unit_6_Graphs/AdjacencyMatrixGraph.java)
+* [Unit 6-1: Adjacency Matrix Graph](../master/Unit_6_Graphs/AdjacencyMatrixGraph.java)
 
-* [Unit6-2: Adjacency List Graph](../master/Unit_6_Graphs/AdjacencyListGraph.java)
+* [Unit 6-2: Adjacency List Graph](../master/Unit_6_Graphs/AdjacencyListGraph.java)
 
-* [Unit6-3: DFS Path Finder](../master/Unit_6_Graphs/DFSPathFinder.java)
+* [Unit 6-3: DFS Path Finder](../master/Unit_6_Graphs/DFSPathFinder.java)
 
-* [Unit6-4: BFS Web Crawler](../master/Unit_6_Graphs/BFSWebCrawler.java)
+* [Unit 6-4: BFS Web Crawler](../master/Unit_6_Graphs/BFSWebCrawler.java)
 
-* [Unit6-5: Topological Order](../master/Unit_6_Graphs/TopologicalOrder.java)
+* [Unit 6-5: Topological Order](../master/Unit_6_Graphs/TopologicalOrder.java)
 
-* [Unit6-6: Cycle Detector](../master/Unit_6_Graphs/CycleDetector.java)
+* [Unit 6-6: Cycle Detector](../master/Unit_6_Graphs/CycleDetector.java)
 
-* [Unit6-7: Connected Components](../master/Unit_6_Graphs/ConnectedComponents.java)
+* [Unit 6-7: Connected Components](../master/Unit_6_Graphs/ConnectedComponents.java)
 
-* [Unit6-8: Dijkstra Shortest Paths](../master/Unit_6_Graphs/DijkstraShortestPaths.java)
+* [Unit 6-8: Dijkstra Shortest Paths](../master/Unit_6_Graphs/DijkstraShortestPaths.java)
 
 ### [Projects](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects)
 
