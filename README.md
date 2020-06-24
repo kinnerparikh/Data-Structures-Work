@@ -84,6 +84,7 @@ These are all the labs and projects we completed this year. **Warning** I did no
   * [Unit 5-4b: Implement size and rank for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTSize_Rank.java)
   
   * [Unit 5-4c: Implement min and max for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTMin_Max.java)
+  
   * [Unit 5-4d: Implement floor for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTFloor.java)
 
 * [Unit 5-5: Implement deleteMin and delete for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BSTDelete_DeleteMin.java)
