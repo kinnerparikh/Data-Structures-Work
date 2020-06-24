@@ -1,7 +1,7 @@
 # Data Structures Kankelborg 2019-2020
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-To Ms. Kankelborg: Hi:wave:! And thank you! Data Strucutres was, by far, my fourth favorite class this year. In my ratings, I take into account a multitude of factors, but most important are how interesting the teacher makes the subject and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, dont just read off the ppt during lectures. add some ivy spice please)
+To Ms. Kankelborg: Hi:wave:! And thank you! Data Strucutres was, by far, my fourth favorite class this year. In my ratings, I take into account a multitude of factors, but most important are how interesting the teacher makes the subject and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, dont just read off the ppt during lectures. add some Ivy spice please)
 
 ____
 
