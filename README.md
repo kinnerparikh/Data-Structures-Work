@@ -11,7 +11,7 @@ So whatever you decide to do with this resource (I am not saying what you can an
 
 #### You hold great power at your fingertips now. Share it with this link: https://tinyurl.com/dscheatsheet
 
-Just some words of wisdom for my dudes: dont do drugs, stay in school, and always, *always* remember 雪花飄飄北風嘯嘯.
+Just some words of wisdom for my dudes: dont do drugs, stay in school, and always, *always* remember [雪花飄飄北風嘯嘯](https://youtu.be/W8x4m-qpmJ8?t=90).
 
 ## Table of Contents
 
