@@ -1,13 +1,13 @@
 # Data Structures Kankelborg 2019-2020
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-To Ms. Kankelborg: Hi:wave:! And thank you! Data Strucutres was, by far, my fourth favorite class this year. In my ratings, I take into account a multitude of factors, but most important are how interesting the teacher makes the subject and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, dont just read off the ppt during lectures. add some Ivy spice please)
+To Ms. Kankelborg: Hi:wave:! And thank you! Data Structures was, by far, my fourth favorite class this year. In my ratings, I take into account a multitude of factors, but most important are how interesting the teacher makes the subject and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, don't just read off the ppt during lectures. add some Ivy spice please)
 
 ____
 
 Ok so heres the dealio. I put this here so that I can view my  work in the future without anyone stopping me. Some in previous years have told me that it is next to impossible to recover the labs that we do this year, so if you, yes you looking at MY repo thinking "hmm, its 7:15, I haven't even started the lab because of how boring it is but I'd really like to get the points for it," well all I'm saying then is that there is no one stopping you from doing what you want to do, just remember that [**plagiarism bad, big brain good**](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-So whatever you decide to do with this resource (I am not saying what you can and can't do), please try to learn all the content as I did with this work. Data strucutres is a wildly important subsect of computer science as a whole, and not fully understanding just one of these subjects will effect your experience in this class and in other CS endeavors. 
+So whatever you decide to do with this resource (I am not saying what you can and can't do), please try to learn all the content as I did with this work. Data structures is a wildly important sub-sect of computer science as a whole, and not fully understanding just one of these subjects will effect your experience in this class and in other CS endeavors.
 
 #### You hold great power at your fingertips now. Share it with this link: https://tinyurl.com/dscheatsheet
 
@@ -20,15 +20,15 @@ These are all the labs and projects we completed this year. **Warning** I did no
 ### [Unit 1 Labs - Linked List](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_1_Labs_LinkedList)
 
 * [Unit 1-1: Singly Linked List](../master/Unit_1_Labs_LinkedList/SinglyLinkedList.java)
-  
+
 * [Unit 1-2: Problem Set 03](../master/Unit_1_Labs_LinkedList/ProblemSet03.java)
-  
+
 * [Unit 1-4: Doubly Linked List](../master/Unit_1_Labs_LinkedList/DoublyLinkedList.java)
-    
+
 ### [Unit 2 Labs - Recursion](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_2_Labs_Recursion)
 
 * [Unit 2-1: Recursion Practice](../master/Unit_2_Labs_Recursion/RecursionPractice.java)
-  
+
 * [Unit 2-2: Recursion Practice Extra](../master/Unit_2_Labs_Recursion/RecursionPracticeExtra.java)
 
 ### [Unit 3 Labs - Stacks & Queues](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_3_Labs_Stacks_Queues)
@@ -56,7 +56,7 @@ These are all the labs and projects we completed this year. **Warning** I did no
 * [Unit 3-9: Stack and Queue Iterators (Resizing Array) - Subfolder](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_3_Labs_Stacks_Queues/Iterators)
 
    * [Unit 3-9a: Stack: Resizing Array Iterator](../master/Unit_3_Labs_Stacks_Queues/Iterators/ResizingArrayStack.java)
-   
+
    * [Unit 3-9b: Queue: Resizing Array Iterator](../master/Unit_3_Labs_Stacks_Queues/Iterators/ResizingArrayQueue.java)
 
 * [Unit 3-9a: Stack and Queue Iterators (Linked List)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -80,11 +80,11 @@ These are all the labs and projects we completed this year. **Warning** I did no
 * [Unit 5-4: Implement more BST methods:](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods)
 
   * [Unit 5-4a: Implement printKeys for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTPrintKeys.java)
-  
+
   * [Unit 5-4b: Implement size and rank for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTSize_Rank.java)
-  
+
   * [Unit 5-4c: Implement min and max for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTMin_Max.java)
-  
+
   * [Unit 5-4d: Implement floor for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BST_Methods/BSTFloor.java)
 
 * [Unit 5-5: Implement deleteMin and delete for a BST](../master/Unit_5_Labs_Tree_Heaps_PQs/BSTDelete_DeleteMin.java)
@@ -114,45 +114,47 @@ These are all the labs and projects we completed this year. **Warning** I did no
 ### [Projects](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects)
 
 * [Breast Cancer Classifier](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/BreastCancerClassifier)
-  
+
+  * [Project Spec](../master/Projects/BreastCancerClassifier/BreastCancerClassifier_Project_Spec.pdf)
+
   * [BreastCancerClassify.java](../master/Projects/BreastCancerClassifier/src/BreastCancerClassify.java)
-  
+
 * [The Travelling Salesman Problem](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/TravellingSalesman)
 
   * [Tour.java](../master/Projects/TravellingSalesman/src/Tour.java)
-  
+
 * [Recursive Art](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/RecursiveArt)
 
   * [Art.java](../master/Projects/RecursiveArt/src/Art.java)
-  
+
   * [Sierpinski.java](../master/Projects/RecursiveArt/src/Sierpinski.java)
-  
+
   * [Transform2D.java](../master/Projects/RecursiveArt/src/Transform2D.java)
-  
+
 * [Maze Solver](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/MazeSolver)
 
   * [MazeGenerator.java](../master/Projects/MazeSolver/src/MazeGenerator.java)
-  
+
   * [MazeSolver.java](../master/Projects/MazeSolver/src/MazeSolver.java)
-  
+
 * [Big Matrix](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/BigMatrix)
 
   * [Big Matrix Project Spec](../master/Projects/BigMatrix/TravellingSalesman_Project_Spec)
 
   * [BigMatrix.java](../master/Projects/BigMatrix/src/BigMatrix.java)
-  
+
   * [TestClass.java](../master/Projects/BigMatrix/src/TestClass.java) <- USE IT!
-  
+
 * [BitTree](https://github.com/williamwang12/BitTreeProject) <- Was not required bc corona. Attached a good alternative (2018)
 
   * [BitTree Project Spec](../master/Projects/BitTree_Project_Spec.pdf)
-  
+
 * [WordNet](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/WordNet)
-  
+
   * [WordNet Project Spec](../master/Projects/WordNet/WordNet_Project_Spec.pdf)
 
   * [SAP.java](../master/Projects/WordNet/src/SAP.java)
-  
+
   * [WordNet.java](../master/Projects/WordNet/src/WordNet.java)
-  
+
   * [Outcast.java](../master/Projects/WordNet/src/Outcast.java)
