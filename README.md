@@ -137,15 +137,19 @@ These are all the labs and projects we completed this year. **Warning** I did no
   
 * [Big Matrix](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/BigMatrix)
 
+  * [Big Matrix Project Spec](../master/Projects/BigMatrix/TravellingSalesman_Project_Spec)
+
   * [BigMatrix.java](../master/Projects/BigMatrix/src/BigMatrix.java)
   
   * [TestClass.java](../master/Projects/BigMatrix/src/TestClass.java) <- USE IT!
   
-* [BitTree](https://github.com/williamwang12/BitTreeProject) <- Was not required bc corona. Attached a good alternative (2018) 
+* [BitTree](https://github.com/williamwang12/BitTreeProject) <- Was not required bc corona. Attached a good alternative (2018)
+
+  * [BitTree Project Spec](../master/Projects/BitTree_Project_Spec.pdf)
   
 * [WordNet](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/WordNet)
   
-  * [Project Spec](../master/Projects/WordNet/WordNet%20Project%20Spec.pdf)
+  * [WordNet Project Spec](../master/Projects/WordNet/WordNet_Project_Spec.pdf)
 
   * [SAP.java](../master/Projects/WordNet/src/SAP.java)
   
