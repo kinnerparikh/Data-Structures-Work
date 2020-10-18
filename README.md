@@ -144,6 +144,8 @@ These are all the labs and projects we completed this year. **Warning** I did no
 * [BitTree](https://github.com/williamwang12/BitTreeProject) <- Was not required bc corona. Attached a good alternative (2018) 
   
 * [WordNet](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/WordNet)
+  
+  * [Project Spec]('../master/Projects/WordNet/WordNet Project Spec')
 
   * [SAP.java](../master/Projects/WordNet/src/SAP.java)
   
