@@ -5,7 +5,7 @@ To Ms. Kankelborg: Hi:wave:! And thank you! Data Strucutres was, by far, my four
 
 ____
 
-Ok so heres the dealio. I put this here so that I can view my  work in the future without anyone stopping me. Some in previous years have told me that it is next to impossible to recover the labs that we do this year, so if you, yes you looking at MY repo thinking "hmm, its 7:15, I haven't even started the lab because of how boring it is but I'd really like to get the points for it," well all I'm saying then is that there is no one stopping you from doing what you want to do, just remember that **plagiarism bad, big brain good**. 
+Ok so heres the dealio. I put this here so that I can view my  work in the future without anyone stopping me. Some in previous years have told me that it is next to impossible to recover the labs that we do this year, so if you, yes you looking at MY repo thinking "hmm, its 7:15, I haven't even started the lab because of how boring it is but I'd really like to get the points for it," well all I'm saying then is that there is no one stopping you from doing what you want to do, just remember that [**plagiarism bad, big brain good**](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 So whatever you decide to do with this resource (I am not saying what you can and can't do), please try to learn all the content as I did with this work. Data strucutres is a wildly important subsect of computer science as a whole, and not fully understanding just one of these subjects will effect your experience in this class and in other CS endeavors. 
 
