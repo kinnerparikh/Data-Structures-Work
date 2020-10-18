@@ -145,7 +145,7 @@ These are all the labs and projects we completed this year. **Warning** I did no
   
 * [WordNet](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Projects/WordNet)
   
-  * [Project Spec]('../master/Projects/WordNet/WordNet Project Spec')
+  * [Project Spec](../master/Projects/WordNet/WordNet%20Project%20Spec.pdf)
 
   * [SAP.java](../master/Projects/WordNet/src/SAP.java)
   
