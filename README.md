@@ -1,5 +1,5 @@
 # Data Structures Kankelborg 2019-2020
-![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<!-- ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 To Ms. Kankelborg: Hi:wave:! And thank you! Data Structures was, by far, my fourth favorite class this year. In my ratings, I take into account a multitude of factors, but most important are how interesting the teacher makes the subject and my seating placements throughout the year. And lets just say, that you somehow always seemed to seat me next to people I thoroughly enjoy (what im trying to say is, don't just read off the ppt during lectures. add some Ivy spice please)
 
@@ -9,13 +9,13 @@ Ok so heres the dealio. I put this here so that I can view my  work in the futur
 
 So whatever you decide to do with this resource (I am not saying what you can and can't do), please try to learn all the content as I did with this work. Data structures is a wildly important sub-sect of computer science as a whole, and not fully understanding just one of these subjects will effect your experience in this class and in other CS endeavors.
 
-#### You hold great power at your fingertips now. Share it with this link: https://tinyurl.com/dscheatsheet
+#### You hold great power at your fingertips now. Share it with this link: -->https://tinyurl.com/dscheatsheet
 
-Just some words of wisdom for my dudes: dont do drugs, stay in school, and always, *always* remember [雪花飄飄北風嘯嘯](https://youtu.be/W8x4m-qpmJ8?t=90).
+<!--Just some words of wisdom for my dudes: dont do drugs, stay in school, and always, *always* remember [雪花飄飄北風嘯嘯](https://youtu.be/W8x4m-qpmJ8?t=90).-->
 
 ## Table of Contents
 
-These are all the labs and projects we completed this year. **Warning** I did not complete some of these assignments (general tomfoolery or corona ¯\\_(ツ)_/¯), so view at your own risk :flushed:.
+<!--These are all the labs and projects we completed this year. **Warning** I did not complete some of these assignments (general tomfoolery or corona ¯\\_(ツ)_/¯), so view at your own risk :flushed:.-->
 
 ### [Unit 1 Labs - Linked List](https://github.com/kinnerparikh/Data-Structures-Work/tree/master/Unit_1_Labs_LinkedList)
 
